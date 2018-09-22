@@ -6,7 +6,7 @@ def reformat_languages(languages)
   languages.each do |style, style_value|
     new_hash[:style] = {style_value: "T" }
       binding.pry
-    
+
   end
 
 
